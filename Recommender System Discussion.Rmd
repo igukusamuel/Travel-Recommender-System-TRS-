@@ -44,13 +44,13 @@ You may work in a small group on this discussion assignment!  Please make your i
 
 # Travel Recommender Systems (TRS)
 
-*Definition:*
+###*Definition and target users:*
 Travel recommender systems are tools and techniques used in the provision of suggestions (recommendations) about travel destinations and other important factors to a traveller or a potential traveller. 
 
-*Objective:*
+###*Objective or goals:*
 These recommendations are aimed at helping the user (traveller) find and make a decision on a travel destination within certain limitations such as budget and travel time (vacation days).
 
-*System fuctionality:*
+###*System fuctionality (achieving the goals):*
 Most travel recommendation systems utilize a knowledge base constructed using user preferences and and use statistics. This enables the algorithms in the system to retun personalized and customized replys or solutions to user queries.
 
  
@@ -68,8 +68,6 @@ To ensure success in the use of recommendation systems, there is need to use the
 Recommender systems can bring about efficiencies and effectiveness and b extension lead to reduced costs to the travellers (users) which would ensure that they can afford to travel within the limitations mentioned above on both budget and travel time available.
 
 Effective recommender systems could also increase sales and sales revenues for the various providers, thus ensureing profitability and by extension continued service provision to travellers.
-
-
 
 ### The intested reader can read the articles below for information on further utilization of recommender systems.
 
